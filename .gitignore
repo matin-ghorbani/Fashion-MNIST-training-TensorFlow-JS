@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.idea
+*.csv
+/models/fashion-mnist-tfjs*
+*.tar.gz
+package.json
+package-lock.json
+
