@@ -29,8 +29,8 @@ Fashion MNIST is a dataset of Zalando's article images consisting of 70,000 28x2
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fashion-mnist-tfjs.git
-    cd fashion-mnist-tfjs
+    git clone https://github.com/matin-ghorbani/Fashion-MNIST-training-TensorFlow-JS.git
+    cd Fashion-MNIST-training-TensorFlow-JS
     ```
 
 2. Create a new package.json:
