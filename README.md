@@ -80,3 +80,5 @@ After training, the model achieves the following results on the test set:
 
 - Test-set loss: ***0.0124***
 - Test-set accuracy: ***0.9979***
+
+You can download my model from [here](https://drive.google.com/drive/folders/1F2tP5d8e9EsysbPxYzsns3nJMSc5FLXq?usp=sharing)
